@@ -1,0 +1,13 @@
+@import "./styles/login.css";
+@import "./styles/sidebarOption.css";
+@import './styles/sidebar.css';
+@import './styles/header.css';
+@import './styles/songrow.css';
+@import './styles/body.css';
+@import './styles/footer.css';
+@import './styles/player.css';
+
+*{
+    margin: 0;
+    padding: 0;
+}
